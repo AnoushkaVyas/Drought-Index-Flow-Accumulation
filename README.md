@@ -1,16 +1,12 @@
-# Flow Accumulation Project and Drought Identification Tool
+# Flow Accumulation and Drought Identification Tool
 
-## Team 10 Members
-- Gaurav Batra 20171114
-- Vani Sancheti 20171179
-- Mudit Agarwal 20171090
-- Dhruv Chauhan 20161123
-- Anoushka Vyas 20171057
+![Python](https://img.shields.io/badge/LICENSE-MIT-blue?logo=appveyor&style=for-the-badge)
+![Python](https://img.shields.io/badge/built--with-Python-green?logo=appveyor&style=for-the-badge)
 
 ## How To Run
 ```
-- python3 combined_tool.py
-- Click on any one tool
+cd Drought-Index-Flow-Accumulation
+python3 combined_tool.py
 ```
 
 ## Calculation of Flow Accumulation and Direction
